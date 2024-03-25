@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Explanation
+The feature I decided to implement delves into the data visualization aspect that I thought would be helpful to add to a userprofile. The page displayed is an example of some of the insights visually and data wise that can be given into someone's donations and donation interests. The API I accessed was an API generating site. This serves as template for further information that can be picked for example, about the user names of those who are popular donaters to other sites, as well perhaps notable figures who have donated to organizations. Thus, if someone wanted to reach out and contact an influential figure, they would be able to find their names.
